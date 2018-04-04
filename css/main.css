@@ -1,0 +1,30 @@
+body {
+  background: linear-gradient( rgba(20, 20, 20, .5), rgba(33, 31, 32, 1)), url(soloterror-dark-field.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  background-color: #211f20;
+  color: #ffffff;
+  padding-bottom: 300px;
+}
+
+body,
+p {
+  font-family: 'Open Sans', sans-serif;
+}
+
+h1 {
+  font-family: 'Fira Sans', sans-serif;
+  font-size: 3em;
+}
+
+h2 {
+  font-family: 'Fira Sans', sans-serif;
+}
+
+.center {
+  margin: auto;
+  width: 70%;
+  padding: 0px;
+}
